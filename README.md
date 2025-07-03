@@ -1,6 +1,5 @@
-# DSA-Project-Doc
-This is a test repo
-# Markdown
+# DSA Capstone Project
+Project Capstone assignment
 
-### Doc
-[Download here](https://www.techcoastafriq.com)
+## Case Study 3
+
