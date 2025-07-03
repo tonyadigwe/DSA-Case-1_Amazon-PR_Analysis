@@ -34,6 +34,7 @@ Project Capstone assignment
 **Insights**: The top 2 products with the heighest reviews are in the Electronics Category
 
 7. Products with discount of 50% or more
+   
 A total of 653 products have a discount of 50% and above
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
