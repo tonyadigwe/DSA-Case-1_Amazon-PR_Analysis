@@ -4,12 +4,14 @@ Project Capstone assignment
 ## Case Study 3: Palmora Group HR Analysis
 I have attached the Dashboard showing the Pointers from Mr. Gamma. The notes below are the responses to his Pointers
 
-1. Gender Distribution: 
+1. Gender Distribution:
+
+There are 946 staff (Post clean up of data)
 
 ![image](https://github.com/user-attachments/assets/0f4b469a-1b53-46ed-9573-7830e411e957)
 
 - In terms of employment, Palmora Group shows there are more Females than males under her employment with ratio of Females: males as 
-481 : 465
+481 : 465. This is the ratio after the empty gender cells were filled.
 
 
 
