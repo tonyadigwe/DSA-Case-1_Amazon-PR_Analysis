@@ -17,3 +17,6 @@ Analysis:
 - More women are within the Very Good and Good Category compared to men.
 - On average, more men are rated Average compared to women with a ratio of 212:208
 - More Men performed Poorly with men in heigher numbers in the Poor and Very poor ratings
+
+3. Restructuring Payment Ceiling
+<img src="https://github.com/user-attachments/assets/9db14cc1-c6e2-47ae-aa4d-fb51b0f5ab36" width=600 height=400>
