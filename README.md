@@ -56,8 +56,28 @@ Below is the Total Potential Revenue by Category
 
 **Insights**: The table above shows the Number of Unique Products per Price Range bucket. Products above INR2000 have the heighest quantity
 
+
 11. Rating and Discount Relationship
 
 <img src="https://github.com/user-attachments/assets/26948eba-555e-4847-8915-a4aff2396ffa" width=500 height=150>
 
 Insight: While Rating range of 2.0-2.9 has the heighest discount percentage, others do not align. This infers that Rating-discount relationship is not existent
+
+12. Reviews less than 1000
+
+- All Products have less than 1000 reviews
+- Also, all Product Categories have less than 1000 reviews for products that fall within their category
+
+
+13. Product Categories with Heighest Discounts
+
+<img src="https://github.com/user-attachments/assets/fa7bafba-405c-4e90-88a4-0110900c195b)" width=500 height=150>
+
+**Insights**
+The categories with the highest discounts are:
+
+- HomeImprovement (most consistent high discounts at 58% average)
+- Computers&Accessories (highest individual discounts up to 94%)
+- Electronics (strong discounts averaging 51% with peaks at 91%)
+
+These three categories consistently offer the deepest discounts to customers, with HomeImprovement leading in average discount percentage and Computers&Accessories having the steepest individual product discounts.
