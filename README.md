@@ -71,9 +71,10 @@ Insight: While Rating range of 2.0-2.9 has the heighest discount percentage, oth
 
 13. Product Categories with Heighest Discounts
 
-<img src="https://github.com/user-attachments/assets/fa7bafba-405c-4e90-88a4-0110900c195b)" width=500 height=150>
+<img src="https://github.com/user-attachments/assets/fa7bafba-405c-4e90-88a4-0110900c195b" width=500 height=150>
 
-**Insights**
+**Insights**: 
+
 The categories with the highest discounts are:
 
 - HomeImprovement (most consistent high discounts at 58% average)
@@ -81,3 +82,5 @@ The categories with the highest discounts are:
 - Electronics (strong discounts averaging 51% with peaks at 91%)
 
 These three categories consistently offer the deepest discounts to customers, with HomeImprovement leading in average discount percentage and Computers&Accessories having the steepest individual product discounts.
+
+14. Top 5 Products (By Rating and Reviews)
