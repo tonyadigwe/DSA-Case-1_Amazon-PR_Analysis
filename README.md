@@ -84,4 +84,12 @@ The categories with the highest discounts are:
 
 These three categories consistently offer the deepest discounts to customers, with HomeImprovement leading in average discount percentage and Computers&Accessories having the steepest individual product discounts.
 
-14. Top 5 Products (By Rating and Reviews)
+
+### 14. Top 5 Products (By Rating and Reviews Combined)
+
+<img src="https://github.com/user-attachments/assets/9fd5f83b-4249-46a5-898c-b61e133d6669" width=500 height=150>
+
+
+**Insights**: 
+The Top 5 Products are listed in the table above. 
+Amazon, JBL and Boat BassHeads Products are quite in demand with good ratings. All the products fall under the Electronics product Category 
