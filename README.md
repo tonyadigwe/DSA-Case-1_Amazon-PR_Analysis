@@ -34,11 +34,11 @@ Project Capstone assignment
 
 **Insights**: The top 2 products with the heighest reviews are in the Electronics Category
 
-###7. Products with discount of 50% or more
+### 7. Products with discount of 50% or more
    
 A total of 751 products have a discount of 50% and above
 
-###8. Ratings Per Product Category(Distribution)
+### 8. Ratings Per Product Category(Distribution)
 
 <img src="https://github.com/user-attachments/assets/e41bc222-a23d-4a82-9bbb-27b3192c4569" width=500 height=150>
 
@@ -47,7 +47,7 @@ A total of 751 products have a discount of 50% and above
 ### 9. Total Potential Revenue by Category
 Below is the Total Potential Revenue by Category
 
-<img src="https://github.com/user-attachments/assets/fc2587b3-0283-451b-9595-6dbf80127ef2" width=500 height=150>
+<img src="https://github.com/user-attachments/assets/fc2587b3-0283-451b-9595-6dbf80127ef2" width=500 height=200>
 
 **Insight**: Electronics have the heighest total potential revenue while Toys&Games have the lowest. This insight shows that most of the buyers are potential new home owners with that region. THe COmpany may need to up its adverts or incentives to woo more Children and their parent to the ecommerce space.
 
@@ -72,7 +72,7 @@ Insight: While Rating range of 2.0-2.9 has the heighest discount percentage, oth
 
 ### 13. Product Categories with Heighest Discounts
 
-<img src="https://github.com/user-attachments/assets/fa7bafba-405c-4e90-88a4-0110900c195b" width=500 height=150>
+<img src="https://github.com/user-attachments/assets/fa7bafba-405c-4e90-88a4-0110900c195b" width=500 height=250>
 
 **Insights**: 
 
@@ -87,7 +87,7 @@ These three categories consistently offer the deepest discounts to customers, wi
 
 ### 14. Top 5 Products (By Rating and Reviews Combined)
 
-<img src="https://github.com/user-attachments/assets/9fd5f83b-4249-46a5-898c-b61e133d6669" width=500 height=150>
+<img src="https://github.com/user-attachments/assets/9fd5f83b-4249-46a5-898c-b61e133d6669" width=500 height=250>
 
 
 **Insights**: 
