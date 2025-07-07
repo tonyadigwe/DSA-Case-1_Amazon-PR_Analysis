@@ -36,7 +36,7 @@ Project Capstone assignment
 
 ###7. Products with discount of 50% or more
    
-A total of 653 products have a discount of 50% and above
+A total of 751 products have a discount of 50% and above
 
 ###8. Ratings Per Product Category(Distribution)
 
@@ -93,3 +93,7 @@ These three categories consistently offer the deepest discounts to customers, wi
 **Insights**: 
 The Top 5 Products are listed in the table above. 
 Amazon, JBL and Boat BassHeads Products are quite in demand with good ratings. All the products fall under the Electronics product Category 
+
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/d1a63233-cb04-47a3-ab0d-68b284dd7346)
