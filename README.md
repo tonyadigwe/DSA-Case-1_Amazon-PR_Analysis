@@ -96,7 +96,7 @@ Amazon, JBL and Boat BassHeads Products are quite in demand with good ratings. A
 
 
 
-### 🔍 **Amazon Product Review Insights & Recommendations**
+###  **Amazon Product Review Insights & Recommendations**
 Here are my recommendations following assessment of the data provided and insights inferred;
 
 * **Prioritize top 5 products and relared Categories** (by rating × review volume) for marketing, bundling, and front-page visibility — they show high trust and demand.
@@ -108,9 +108,6 @@ Here are my recommendations following assessment of the data provided and insigh
 * **Set up real-time alerts** for rating drops to trigger faster QA response and protect brand credibility.
 
 ---
-
-Let me know if you want this adapted into a deck or analytics dashboard summary.
-
 
 ## Dashboard
 
